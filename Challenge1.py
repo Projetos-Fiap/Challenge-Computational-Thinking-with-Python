@@ -15,3 +15,6 @@ elif opcaoZona == 4:
 
 elif opcaoZona == 5:
     print(f'Esses são os EcoPontos localizados na Zona escolhida: \n Parque Peruche — Av. Engº Caetano Álvares, nº 3142 \n Vila Nova Cachoeirinha — Rua Felix Alves Pereira, nº 113 \n Casa Verde — Rua Zanzibar, nº 125 \n Cônego José Salomon — Rua Cônego José Salomon, n° 861 — Vila Bonilha \n Vila Guilherme — Rua José Bernardo Pinto, nº 1480 — Vila Guilherme \n Vila Sabrina — Av. dos Poetas, 931 \n Vila Maria — Rua Curuçá, 1.700 \n Vila Luísa — Rua Recife x Rua Alfredo de Franco — Baixos Viad. Eng. Alberto Badra \n Tucuruvi — Rua Eduardo Vicente Nasser, 51 \n Vila Rica — Rua Jorge Mamede da Silva, defronte ao nº201 \n Santana — Av. Zaki Narchi, Altura do nº 360 ao lado da AACD')
+    
+else: 
+    print(f'Digite uma opção válida.')
