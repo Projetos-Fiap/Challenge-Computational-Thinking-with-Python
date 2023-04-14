@@ -20,7 +20,7 @@
 
 <h1>Listagem de ecopontos na sua área</h1>
 
-No projeto feito no arquivo Challenge1.py o usuário seleciona qual a zona de São Paulo na qual reside e o programa lista todos os ecopontos localizados naquela zona.
+No projeto feito no arquivo Challenge1.py o usuário seleciona o material que quer reciclar, em seguida qual a zona de São Paulo na qual reside e o programa lista todos os ecopontos localizados naquela zona.
 
 <h1>Calculo de distância entre ecopontos</h1>
 
