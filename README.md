@@ -1,6 +1,6 @@
 # Challenge Computational Thinking with Python
 
-<h3>Sprint 01: Challenge Web Development with JavaScript </h3>
+<h3>Sprint 01: Challenge Computational Thinking with Python </h3>
 
 
 <h4>Integrantes:</h4>
